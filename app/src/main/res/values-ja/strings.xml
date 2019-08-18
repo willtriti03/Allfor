@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">ALL FOR</string>
+    <string name="home">home</string>
+    <string name="mypage">my page</string>
+    <string name="category">category</string>
+    <string name="categoryCap">Category</string>
+    <string name="login">ログイン</string>
+    <string name="loginbutton">ログイン</string>
+    <string name="email">メールを入力してください</string>
+    <string name="password">暗証番号を入力してください</string>
+    <string name="newenter">新規のお客様: <font fgcolor="#96A8F4">ここから始まる</font></string>
+    <string name="find">パスワード忘れ</string>
+    <string name="Signup">会員加入</string>
+    <string name="Signup_explain">会員加入がアプリは、会員加入をすれば正常的に使用することができます。 Emailを登録してください。</string>
+    <string name="If_member_signin">会員んでしたら、<font fgcolor="#96A8F4">このところ</font>を押してログインをしてください。</string>
+    <string name="find_password">暗号探し</string>
+    <string name="find_password_explain">登録したe-mailを入力してください。</string>
+    <string name="find_password_send">E-mail 送信</string>
+    <string name="sent_email">メールを送りました。</string>
+    <string name="fail_sending_email">メール送ること失敗。</string>
+    <string name="inprogress">処理中です。 少々お待ちください。</string>
+    <string name="plz_enter_email">emailを入力してください。</string>
+    <string name="plz_enter_Password">暗証番号をご入力ください</string>
+    <string name="plz_enter_Name">名前を入力してください。</string>
+    <string name="progess_in_login">ログイン中です。 少々お待ちください...</string>
+    <string name="fail_login">ログイン失敗!</string>
+    <string name="why_fail">暗証番号が間違ったり、インターネット連結されていません。</string>
+    <string name="process_wait">処理中です。 しばらく待ってください。</string>
+    <string name="enter_email">Emailを入力してください。</string>
+    <string name="enter_password">暗証番号をご入力ください。</string>
+    <string name="enter_name">名前を入力してください。</string>
+    <string name="signup_error_type">すでに登録されたメールや暗証番号が6桁以上がありません。</string>
+    <string name="signup_error">会員加入エラー</string>
+    <string name="password_notequal">暗証番号が一致しません。</string>
+    <string name="startapp">開始するには、ボタンをクリックします。</string>
+    <string name="double_press_end">後ろに戻るボタンをもう一度押せば消えます。</string>
+    <string name="okay"><font fgcolor="#96A8F4">確認</font></string>
+    <string name="cancel"><font fgcolor="#96A8F4">キャンセル</font></string>
+    <string name="nice">嬉しいです</string>
+    <string name="as_login">でログインしました</string>
+    <string name="delete_your_acc">アカウントが削除されました。</string>
+    <string name="want_delete">本当にアカウントを削除しましょうか。</string>
+    <string name="change_lang">として、言語が変更されました</string>
+    <string name="point">ポイント</string>
+    <string name="log_out">サインアウト</string>
+    <string name="Member_out">会員の退会</string>
+    <string name="checking_point">照会中。</string>
+    <string name="introduceTrans">韓国の大衆交通を利用するのに役をするアプリである。</string>
+    <string name="introduceRest">使用者においしくて有名なレストランを推薦したり、使用者が望むメニューまたは該当地域の有名したり、おいしい飲食店を薦めてくれる。 また、行こうとする食堂を訪問した人々の評価も確認することができる。</string>
+    <string name="introduceDeli">韓国の独特な文化として電話やアプリを使用し、料理を注文すると、食べ物を望む場所にもたらす。 また、遅い夜まで配達が可能で、アプリ自体内で割引を受けることができる。</string>
+    <string name="introducePro">長期間生活や一定期間に生活しようとする部屋を調べるのに役をするアプリで、不動産を行かなくても求めようとする部屋の価格、特徴を事前に比較しことができる。</string>
+    <string name="introduceTravel">韓国にある有名観光地を紹介や案内してくれるアプリとして使用者が特定地域の観光地を調べるとすれば観光コースをお勧めしてくれるだけでなく、すでに訪れた人たちのレビュー、主要の食べ物などを確認することができる。</string>
+    <string name="sub_delivery">配達サービス</string>
+    <string name="sub_transport">交通情報アプリ</string>
+    <string name="sub_restaurant">レストラン情報アプリ</string>
+    <string name="sub_realstate">不動産アプル</string>
+    <string name="sub_tour">観光案内アプリ</string>
+    <string name="ca_delivery">出前</string>
+    <string name="ca_transport">公共交通機関</string>
+    <string name="ca_restaurant">食堂</string>
+    <string name="ca_realstate">不動産</string>
+    <string name="ca_tour">旅行</string>
+    <string name="suggest">推薦アプリケーション</string>
+    <string name="best">人気アプリケーション</string>
+    <string name="ad">広告</string>
+    <string name="how">整列方式</string>
+    <string name="sort_korean">韓国人がたくさん書き方</string>
+    <string name="sort_star">評点手順</string>
+    <string name="sort_downloda">ダウンロードたくさん受けた手順</string>
+    <string name="change_list">整列方式が変更されました</string>
+    <string name="comments_done">コメントの作成が完了しました。</string>
+    <string name="translated">翻訳本</string>
+    <string name="introduce">紹介</string>
+    <string name="review">レビュー</string>
+    <string name="register">登録する</string>
+    <string name="comment_section">コメント</string>
+    <string name="download">ダウンロード</string>
+    <string name="possible_other_lan">支援言語</string>
+    <string name="db_working">現在DB構築作業中。</string>
+
+</resources>
+
+
+
+

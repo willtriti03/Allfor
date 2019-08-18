@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">ALL FOR</string>
+    <string name="home">home</string>
+    <string name="mypage">my page</string>
+    <string name="category">category</string>
+    <string name="categoryCap">Category</string>
+    <string name="login">登录</string>
+    <string name="loginbutton">登录</string>
+    <string name="email">请输入电子邮箱</string>
+    <string name="password">请输入密码。</string>
+    <string name="newenter">新規のお客様:的客户 <font fgcolor="#96A8F4">在这里开始</font></string>
+    <string name="find">找回密码</string>
+    <string name="Signup">注册会员</string>
+    <string name="Signup_explain">会员注册应用程序只有在注册会员时才能正常使用。 请登记为Email。</string>
+    <string name="If_member_signin">如果是会员,请点击<font fgcolor="#96A8F4">这里</font>登录。</string>
+    <string name="find_password">找回密码</string>
+    <string name="find_password_explain">请输入注册的 E-mail。</string>
+    <string name="find_password_send">电子邮件发送</string>
+    <string name="sent_email">我发了邮件。</string>
+    <string name="fail_sending_email">发送电子邮件失败!</string>
+    <string name="inprogress">处理中。 稍等一下。</string>
+    <string name="plz_enter_email">请输入email。</string>
+    <string name="plz_enter_Password">请输入密码。</string>
+    <string name="plz_enter_Name">请输入名字。</string>
+    <string name="progess_in_login">正在登录。 稍等一下...</string>
+    <string name="fail_login">登录失败!</string>
+    <string name="why_fail">密码错误或无法连接网络。</string>
+    <string name="process_wait">处理中。 请稍等一下。</string>
+    <string name="enter_email">请输入Email。</string>
+    <string name="enter_password">请输入密码。</string>
+    <string name="enter_name">请输入名字。</string>
+    <string name="signup_error_type">已登记的邮箱或密码不超过6位数。</string>
+    <string name="signup_error">会员加入错误</string>
+    <string name="password_notequal">密码不一致。</string>
+    <string name="startapp">要开始的话请按下按钮。</string>
+    <string name="double_press_end">再按下一次键就会熄灭。</string>
+    <string name="okay"><font fgcolor="#96A8F4">确认</font></string>
+    <string name="cancel"><font fgcolor="#96A8F4">取消</font></string>
+    <string name="nice">很高兴见到你。</string>
+    <string name="as_login">已登录</string>
+    <string name="delete_your_acc">账户被删除了。</string>
+    <string name="want_delete">真的要删除账户吗?</string>
+    <string name="change_lang">语言变了</string>
+    <string name="point">点</string>
+    <string name="log_out">签了</string>
+    <string name="Member_out">注销会员</string>
+    <string name="checking_point">查询中。</string>
+    <string name="introduceTrans"> 这个应用程序可以帮助您在韩国使用公共交通。</string>
+    <string name="introduceRest">为了用户推荐美味而著名的餐厅，以及推荐有用户想要的饮食的餐厅或者您所在地区的著名美味的餐厅。您还可以查看访问过您要去的餐厅的人的评分。</string>
+    <string name="introduceDeli"> 送餐是一种独特的韩国文化，用电话或应用程序订购食物，那把食物带到您想要的地方，并且您也可以将它送到甚至在深夜。还有在应用程序上可以获得折扣。</string>
+    <string name="introducePro"> 这应用程序是一种帮助您决定仅存在于韩国的住处. 您可以预先比要借房子的价格和特点。</string>
+    <string name="introduceTravel"> 这应用程序介绍和展示韩国著名旅游景点，用户可以查看特定区域的观光景点和已经访问过的人的评论和吃过的食品</string>
+    <string name="sub_delivery">送货上门服务</string>
+    <string name="sub_transport">交通信息应用程序</string>
+    <string name="sub_restaurant">餐厅信息器</string>
+    <string name="sub_realstate">不动产应用程序</string>
+    <string name="sub_tour">旅游指南</string>
+    <string name="ca_delivery">食品送</string>
+    <string name="ca_transport">公共交通</string>
+    <string name="ca_restaurant">食堂</string>
+    <string name="ca_realstate">不动产</string>
+    <string name="ca_tour">旅行</string>
+    <string name="suggest">推荐应用程序</string>
+    <string name="best">人气应用程序</string>
+    <string name="ad">广告</string>
+    <string name="how">排序方式</string>
+    <string name="sort_korean">韩国人常用的顺序</string>
+    <string name="sort_star">评分顺序</string>
+    <string name="sort_downloda">下载次数较多的顺序</string>
+    <string name="change_list">排序方式已变更</string>
+    <string name="comments_done">留言已完成。</string>
+    <string name="translated">翻译本</string>
+    <string name="introduce">简介</string>
+    <string name="review">评论</string>
+    <string name="register">登记。</string>
+    <string name="comment_section">回帖</string>
+    <string name="download">下载</string>
+    <string name="possible_other_lan">支援语言</string>
+    <string name="db_working">现在正在构筑数据库.</string>
+
+
+</resources>
+
+
+
+

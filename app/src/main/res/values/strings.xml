@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">ALL FOR</string>
+    <string name="home">home</string>
+    <string name="mypage">my page</string>
+    <string name="catagory">catagory</string>
+    <string name="categoryCap">Category</string>
+    <string name="login">LOGIN</string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter password</string>
+    <string name="newenter">New customer? <font fgcolor="#96A8F4">Start here.</font></string>
+    <string name="find">Forgot your password?</string>
+    <string name="Signup">Sign Up</string>
+    <string name="Signup_explain">The app for sign - up requires membership to be used normally. Please register by e-mail.</string>
+    <string name="If_member_signin">If you are a member, please <font fgcolor="#96A8F4">click here</font> to sign in.</string>
+    <string name="find_password">Find Password</string>
+    <string name="find_password_explain">Enter registered E-mail.</string>
+    <string name="find_password_send">Send E-mail</string>
+    <string name="sent_email">sent you an email.</string>
+    <string name="fail_sending_email">Email Failed!</string>
+    <string name="inprogress">Processing. Please wait..</string>
+    <string name="plz_enter_email">Enter email.</string>
+    <string name="plz_enter_Password">Enter password.</string>
+    <string name="plz_enter_Name">Enter Name.</string>
+    <string name="progess_in_login">Login in progress. Just a moment, please...</string>
+    <string name="fail_login">Login Failed!</string>
+    <string name="why_fail">Incorrect password or no Internet connection.</string>
+    <string name="process_wait">Processing. Please wait...</string>
+    <string name="enter_email">Enter email.</string>
+    <string name="enter_password">Please enter your password.</string>
+    <string name="enter_name">Please enter your name.</string>
+    <string name="signup_error_type">Email already registered or password is not longer than 6 digits.</string>
+    <string name="signup_error">SignUp error</string>
+    <string name="password_notequal">The secret number does not match.</string>
+    <string name="startapp">Press button to start.</string>
+    <string name="double_press_end">Press the Back button one more time to turn it off.</string>
+    <string name="okay"><font fgcolor="#96A8F4">Ok</font></string>
+    <string name="cancel"><font fgcolor="#96A8F4">Cancel</font></string>
+    <string name="nice">Welcome</string>
+    <string name="as_login">Logged in as</string>
+    <string name="delete_your_acc">Your account has been deleted.</string>
+    <string name="want_delete">Do you really want to delete the account?</string>
+    <string name="change_lang">Language changed</string>
+    <string name="point">Point</string>
+    <string name="log_out">Sign out</string>
+    <string name="Member_out">Membership Withdrawal</string>
+    <string name="checking_point">Checking...</string>
+    <string name="introduceTrans">It helps you to use public transportation in Korea.</string>
+    <string name="introduceRest">Recommend a delicious and famous restaurant to the user, or recommend the menu or the famous and delicious restaurant in your area. You can also check the ratings of the people who visited the restaurant you want to go to.</string>
+    <string name="introduceDeli">As a unique Korean culture, when you order food using a phone or app, bring the food to the place where you want. You can also deliver it late into the night and get a discount within the app itself.</string>
+    <string name="introducePro">You can compare the price and features of the room you want to save without having to make a real estate as an app that will help you to find rooms to live for a long time or for a certain period of time</string>
+    <string name="introduceTravel">As an app that introduces and shows famous tourist attractions in Korea, users can check out sightseeing places in a specific area, as well as reviews and main food items of people who have already visited.</string>
+    <string name="sub_delivery">delivery service</string>
+    <string name="sub_transport">Traffic Information App</string>
+    <string name="sub_restaurant">Restaurant information App</string>
+    <string name="sub_realstate">Real state App</string>
+    <string name="sub_tour">Tourist Information App</string>
+    <string name="ca_delivery">Food Delivery</string>
+    <string name="ca_transport">Public Transport</string>
+    <string name="ca_restaurant">Restaurant</string>
+    <string name="ca_realstate">Real Property</string>
+    <string name="ca_tour">Travel</string>
+    <string name="suggest">Suggested Apps</string>
+    <string name="best">Best Apps</string>
+    <string name="ad">AD</string>
+    <string name="how">Alignment method</string>
+    <string name="sort_korean">the order Koreans use a lot</string>
+    <string name="sort_star">Scoring order</string>
+    <string name="sort_downloda">Downloaded order</string>
+    <string name="change_list">Alignment method has been changed</string>
+    <string name="comments_done">Comment creation completed.</string>
+    <string name="translated">Translation</string>
+    <string name="introduce">Introduction</string>
+    <string name="review">Review</string>
+    <string name="register">Register</string>
+    <string name="comment_section">Comments</string>
+    <string name="download">Download</string>
+    <string name="possible_other_lan">Supported language</string>
+    <string name="db_working">Currently working on the DB.</string>
+
+</resources>
